@@ -6,23 +6,21 @@ The code is complete autonomous & customizable. It allows the user to configure 
 
 **Detailed Description:**
 
-**Inputs to Python Code:: (CSV file with 4 columns)**
+**Inputs to Python Code:: (CSV file with 4 columns)** Example:
 
-Example:
+***Cusip,Source,StartDate,EndDate***
 
-***Cusip,Source,StartDate,EndDate
 010869CD5,MSRB,9/1/2020,10/5/2020
-02765UCY8,MSRB,9/1/2020,10/5/2020***
+02765UCY8,MSRB,9/1/2020,10/5/2020
 
 
-**Output File Generated:: (CSV file with 9 columns)**
+**Output File Generated:: (CSV file with 9 columns)** Example:
 
-Example:
+***Trade Date/Time,Settlement Date,Price (%),Yield (%)	,Calculation Date & Price (%),Trade Amount ($),Trade Type,SpecialCondition,Cusip***
 
-***Trade Date/Time,Settlement Date,Price (%),Yield (%)	,Calculation Date & Price (%),Trade Amount ($),Trade Type,SpecialCondition,Cusip
 10/05/2020 10:53 AM,10/07/2020,125.788,3.265,"10/01/2029@ 100","250,000",Customer bought,-,010869CD5
 10/02/2020 09:45 AM,10/06/2020,125.75,3.27,"10/01/2029@ 100","250,000",Customer sold,-,010869CD5
-10/01/2020 02:31 PM,10/05/2020,126.465,3.19,"10/01/2029@ 100","250,000",Customer bought,-,010869CD5***
+10/01/2020 02:31 PM,10/05/2020,126.465,3.19,"10/01/2029@ 100","250,000",Customer bought,-,010869CD5
 
 
 
