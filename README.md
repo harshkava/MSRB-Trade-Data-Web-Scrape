@@ -1,6 +1,6 @@
 # MSRB_TRADE_DATA
-This repository contains code to scrape trade data from Municipal Securities Rulemaking Board(MSRB) website using python, selenium and google chrome.</br>
-**Web-Address: https://emma.msrb.org/Home/Index**</br>
+This repository contains code to scrape trade data from Municipal Securities Rulemaking Board(MSRB) website using python, selenium and google chrome.</br></br>
+**Web-Address: https://emma.msrb.org/Home/Index**</br></br>
 The code is complete autonomous & customizable. It allows the user to configure the input filename and output filename while generating an error log file for any cusip that might have been missed.
 
 **Detailed Description:**
