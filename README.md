@@ -12,6 +12,11 @@ The code is complete autonomous & customizable. It allows the user to configure 
 02765UCY8,MSRB,9/1/2020,10/5/2020<br/>
 
 
+**Input File:**
+![Image](/2020-10-05_20-15-08.png?raw=true)
+
+
+
 **Output File Generated:: (CSV file with 9 columns)** Example:
 
 ***Trade Date/Time,Settlement Date,Price (%),Yield (%)	,Calculation Date & Price (%),Trade Amount ($),Trade Type,SpecialCondition,Cusip*** <br/>
@@ -24,6 +29,24 @@ The code is complete autonomous & customizable. It allows the user to configure 
 09/03/2020 02:32 PM,09/08/2020,133.129,4.211,"02/15/2044@ 100","10,000",Customer sold,-,02765UCY8<br/>
 09/03/2020 02:32 PM,09/08/2020,133.157,4.209,"02/15/2044@ 100","10,000",Inter-dealer trade,,02765UCY8<br/>
 
+**Output File:**
+![Image](/2020-10-05_20-15-35.png?raw=true)
+</br>
+</br>
+**Program Execution Steps**
+</br>
+</br>
+
+![Image](/2020-10-05_20-09-16.png?raw=true)
+
+
+![Image](/2020-10-05_20-10-34.png?raw=true)
+
+
+![Image](/2020-10-05_20-13-22.png?raw=true)
+
+
+![Image](/2020-10-05_20-14-10.png?raw=true)
 
 
 
